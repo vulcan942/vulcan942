@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vulcan942/vulcan942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+
+I am **Nishant Choudhary** working as **Software Engineer @ Quovantis**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in Angular, NodeJS, MongoDB, Mean Stack, Python, Flask, RESTfull API’s.**
+
+---
+
+- 🔭 I’m currently working as **Software Engineer @ Quovantis**
+- 🌱 I’m currently learning ** Django **
+- 💬 Ask me about **Web Development**
