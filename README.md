@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-I am **Nishant Choudhary** working as **Software Engineer @ Quovantis**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in Angular, NodeJS, MongoDB, Mean Stack, Python, Flask, RESTfull API’s.**
+I am **Nishant Choudhary** working as **Software Engineer @ BCG**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in Angular, NodeJS, MongoDB, Mean Stack, Python, Flask, RESTfull API’s.**
 
 ---
 
-- 🔭 I’m currently working as **Software Engineer @ Quovantis**
+- 🔭 I’m currently working as **Software Engineer @ BCG**
 - 🌱 I’m currently learning ** Django **
 - 💬 Ask me about **Web Development**
