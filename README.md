@@ -20,5 +20,5 @@ I am **Nishant Choudhary** working as **Software Engineer @ BCG**. I am an Exper
 ---
 
 - 🔭 I’m currently working as **Software Engineer @ BCG**
-- 🌱 I’m currently learning ** Django **
+- 🌱 I’m currently learning ** NextJS **
 - 💬 Ask me about **Web Development**
